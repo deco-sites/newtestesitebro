@@ -74,17 +74,22 @@ const manifest = {
     "deco-sites/newtestesitebro/sections/Layout/GridItem.tsx": $$$$$$12,
     "deco-sites/newtestesitebro/sections/Links/LinkTree.tsx": $$$$$$34,
     "deco-sites/newtestesitebro/sections/Links/Shortcuts.tsx": $$$$$$35,
-    "deco-sites/newtestesitebro/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$29,
-    "deco-sites/newtestesitebro/sections/Miscellaneous/CookieConsent.tsx": $$$$$$30,
+    "deco-sites/newtestesitebro/sections/Miscellaneous/CampaignTimer.tsx":
+      $$$$$$29,
+    "deco-sites/newtestesitebro/sections/Miscellaneous/CookieConsent.tsx":
+      $$$$$$30,
     "deco-sites/newtestesitebro/sections/Newsletter/Newsletter.tsx": $$$$$$36,
     "deco-sites/newtestesitebro/sections/Product/ImageGalleryFrontBack.tsx":
       $$$$$$26,
-    "deco-sites/newtestesitebro/sections/Product/ImageGallerySlider.tsx": $$$$$$25,
+    "deco-sites/newtestesitebro/sections/Product/ImageGallerySlider.tsx":
+      $$$$$$25,
     "deco-sites/newtestesitebro/sections/Product/NotFound.tsx": $$$$$$28,
-    "deco-sites/newtestesitebro/sections/Product/NotFoundChallenge.tsx": $$$$$$21,
+    "deco-sites/newtestesitebro/sections/Product/NotFoundChallenge.tsx":
+      $$$$$$21,
     "deco-sites/newtestesitebro/sections/Product/ProductInfo.tsx": $$$$$$23,
     "deco-sites/newtestesitebro/sections/Product/ProductShelf.tsx": $$$$$$24,
-    "deco-sites/newtestesitebro/sections/Product/ProductShelfTabbed.tsx": $$$$$$27,
+    "deco-sites/newtestesitebro/sections/Product/ProductShelfTabbed.tsx":
+      $$$$$$27,
     "deco-sites/newtestesitebro/sections/Product/SearchResult.tsx": $$$$$$22,
     "deco-sites/newtestesitebro/sections/Product/Wishlist.tsx": $$$$$$20,
     "deco-sites/newtestesitebro/sections/Social/InstagramPosts.tsx": $$$$$$32,
